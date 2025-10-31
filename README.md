@@ -1,0 +1,1 @@
+# Global-Search-Trends-Analysis-using-PyTrends-Plotly
